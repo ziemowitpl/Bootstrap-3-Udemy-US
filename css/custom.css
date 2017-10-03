@@ -6,3 +6,9 @@ body {
 .jumbotron {
     text-align: center;
 }
+ul.nav, .jumbotron h1 {
+    font-family: 'Arvo', courier, serif;
+}
+.btn-lg {
+    font-size: 36px;
+}
