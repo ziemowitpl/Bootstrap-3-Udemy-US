@@ -23,11 +23,16 @@ ul.nav, .jumbotron h1 {
 ul nav {
     font-size: 13px;
 }
+#get-involved {
+    background-color: #f5f5f5;
+}
 .btn-lg {
     font-size: 36px;
 }
 .homepage {
     text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
 .homepage h2, .homepage h3 {
     color: #E74C3C;
