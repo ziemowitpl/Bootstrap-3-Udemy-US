@@ -26,3 +26,11 @@ ul nav {
 .btn-lg {
     font-size: 36px;
 }
+.homepage {
+    text-align: center;
+}
+.homepage h3 {
+    color: #E74C3C;
+    font-family: 'Arvo', courier, serif;
+    text-transform: uppercase;
+}
