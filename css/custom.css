@@ -47,6 +47,11 @@ ul nav {
 .homepage a {
     color: #E74C3C;
 }
+.homepage a:hover {
+    color: #E74C3C;
+    opacity: .8;
+    text-decoration: none;
+}
 .homepage hr {
     border-top: 1px solid #E74C3C;
     width: 160px;
