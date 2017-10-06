@@ -26,6 +26,11 @@ ul nav {
 #get-involved {
     background-color: #f5f5f5;
 }
+#educator {
+    font-size: 30px;
+    color: black;
+    text-transform: lowercase;
+}
 .btn-lg {
     font-size: 36px;
 }
