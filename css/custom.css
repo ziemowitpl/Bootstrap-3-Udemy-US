@@ -1,8 +1,7 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-top: 50px;
-  padding-bottom: 20px;
-}
+ }
 .jumbotron {
     text-align: center;
     background-image: url('../images/hero_image.jpg');
@@ -72,3 +71,10 @@ footer {
     width: 160px;
     margin-top: 15px;
 }
+/* -------Responsive Styling---------*/
+@media (max-width: 1199px) {
+    .jumbotron h1 {
+        font-size: 56px;
+        margin-bottom: 30px;
+    }
+ }
